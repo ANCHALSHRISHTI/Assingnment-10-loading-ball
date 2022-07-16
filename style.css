@@ -16,7 +16,7 @@
 .ball {
     width: 70px;
     height: 70px;
-    background-image: linear-gradient(skyblue 50%, lightpink 50%);
+    background-image: linear-gradient(blue 50%, pink 50%);
     border-radius: 50%;
     animation: bounce 2s linear infinite;
 }
