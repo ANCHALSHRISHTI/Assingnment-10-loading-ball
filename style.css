@@ -16,7 +16,7 @@
 .ball {
     width: 70px;
     height: 70px;
-    background-image: linear-gradient(yellow 50%, red 50%);
+    background-image: linear-gradient(skyblue 50%, lightpink 50%);
     border-radius: 50%;
     animation: bounce 2s linear infinite;
 }
@@ -37,7 +37,7 @@
     width: 70px;
     height: 10px;
     border-radius: 50%;
-    background-color: gray;
+    background-color: black;
     animation: shadow 2s linear infinite;
 }
 
